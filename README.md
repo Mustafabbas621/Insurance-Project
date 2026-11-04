@@ -25,7 +25,7 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy, Scikit-learn, Jupyter Noteboo
 
 ## How to Run
 ```bash
-git clone 
+git clone https://github.com/Mustafabbas621/Insurance-Project
 cd insurance-charges-prediction
 pip install numpy pandas matplotlib seaborn scipy scikit-learn jupyter
 jupyter notebook Insurance_Project.ipynb
